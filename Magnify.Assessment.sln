@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magnify.Assessment", "Magnify.Assessment\Magnify.Assessment.csproj", "{01ABE367-C691-4647-90C8-29F6E2F292F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magnify.Assessment.Test", "Magnify.Assessment.Test\Magnify.Assessment.Test.csproj", "{F85A74CB-B1AF-4820-9D6D-C1934F0B6CE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01ABE367-C691-4647-90C8-29F6E2F292F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01ABE367-C691-4647-90C8-29F6E2F292F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01ABE367-C691-4647-90C8-29F6E2F292F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01ABE367-C691-4647-90C8-29F6E2F292F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85A74CB-B1AF-4820-9D6D-C1934F0B6CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85A74CB-B1AF-4820-9D6D-C1934F0B6CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85A74CB-B1AF-4820-9D6D-C1934F0B6CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85A74CB-B1AF-4820-9D6D-C1934F0B6CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9430476D-1609-4CE1-9EB4-D61E0BC0DFFB}
+	EndGlobalSection
+EndGlobal
